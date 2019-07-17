@@ -1,0 +1,670 @@
+[
+  {
+    "id": "937",
+    "name": "Abu Hail"
+  },
+  {
+    "id": "764",
+    "name": "Academic City"
+  },
+  {
+    "id": "919",
+    "name": "Al Bada'a"
+  },
+  {
+    "id": "933",
+    "name": "Al Baraha"
+  },
+  {
+    "id": "834",
+    "name": "Al Barari"
+  },
+  {
+    "id": "846",
+    "name": "Al Barsha 1"
+  },
+  {
+    "id": "833",
+    "name": "Al Barsha 2"
+  },
+  {
+    "id": "832",
+    "name": "Al Barsha 3"
+  },
+  {
+    "id": "830",
+    "name": "Al Barsha South"
+  },
+  {
+    "id": "811",
+    "name": "Al Furjan"
+  },
+  {
+    "id": "1337",
+    "name": "Al Hamriya"
+  },
+  {
+    "id": "921",
+    "name": "Al Hudaiba"
+  },
+  {
+    "id": "865",
+    "name": "Al Jaddaf"
+  },
+  {
+    "id": "920",
+    "name": "Al Jaffiliya"
+  },
+  {
+    "id": "924",
+    "name": "Al Karama"
+  },
+  {
+    "id": "931",
+    "name": "Al Khabaisi"
+  },
+  {
+    "id": "793",
+    "name": "Al Khawaneej 1"
+  },
+  {
+    "id": "792",
+    "name": "Al Khawaneej 2"
+  },
+  {
+    "id": "940",
+    "name": "Al Mamzar"
+  },
+  {
+    "id": "908",
+    "name": "Al Manara"
+  },
+  {
+    "id": "925",
+    "name": "Al Mankhool"
+  },
+  {
+    "id": "922",
+    "name": "Al Mina"
+  },
+  {
+    "id": "794",
+    "name": "Al Mizhar 1"
+  },
+  {
+    "id": "795",
+    "name": "Al Mizhar 2"
+  },
+  {
+    "id": "812",
+    "name": "Al Muntazah"
+  },
+  {
+    "id": "932",
+    "name": "Al Muraqqabat"
+  },
+  {
+    "id": "1146",
+    "name": "Al Murar"
+  },
+  {
+    "id": "879",
+    "name": "Al Nahda 1"
+  },
+  {
+    "id": "881",
+    "name": "Al Nahda 2"
+  },
+  {
+    "id": "849",
+    "name": "Al Quoz"
+  },
+  {
+    "id": "853",
+    "name": "Al Quoz 1"
+  },
+  {
+    "id": "851",
+    "name": "Al Quoz 2"
+  },
+  {
+    "id": "852",
+    "name": "Al Quoz 3"
+  },
+  {
+    "id": "850",
+    "name": "Al Quoz 4"
+  },
+  {
+    "id": "1143",
+    "name": "Al Quoz Industrial Area 2"
+  },
+  {
+    "id": "848",
+    "name": "Al Quoz Industrial Area 3"
+  },
+  {
+    "id": "847",
+    "name": "Al Quoz Industrial Area 4"
+  },
+  {
+    "id": "1680",
+    "name": "Al Qusais 1"
+  },
+  {
+    "id": "874",
+    "name": "Al Qusais 2"
+  },
+  {
+    "id": "873",
+    "name": "Al Qusais 3"
+  },
+  {
+    "id": "878",
+    "name": "Al Qusais Industrial Area"
+  },
+  {
+    "id": "882",
+    "name": "Al Qusais Industrial Area 1"
+  },
+  {
+    "id": "877",
+    "name": "Al Qusais Industrial Area 5"
+  },
+  {
+    "id": "923",
+    "name": "Al Raffa"
+  },
+  {
+    "id": "1145",
+    "name": "Al Ras"
+  },
+  {
+    "id": "867",
+    "name": "Al Rashidiya"
+  },
+  {
+    "id": "930",
+    "name": "Al Rigga"
+  },
+  {
+    "id": "914",
+    "name": "Al Safa"
+  },
+  {
+    "id": "1516",
+    "name": "Al Safa 1"
+  },
+  {
+    "id": "912",
+    "name": "Al Safa 2"
+  },
+  {
+    "id": "918",
+    "name": "Al Satwa"
+  },
+  {
+    "id": "1632",
+    "name": "Al Souq Al Kabeer"
+  },
+  {
+    "id": "905",
+    "name": "Al Sufouh 1"
+  },
+  {
+    "id": "902",
+    "name": "Al Sufouh 2"
+  },
+  {
+    "id": "1679",
+    "name": "Al Twar 1"
+  },
+  {
+    "id": "872",
+    "name": "Al Twar 2"
+  },
+  {
+    "id": "1678",
+    "name": "Al Twar 3"
+  },
+  {
+    "id": "726",
+    "name": "Al Waha"
+  },
+  {
+    "id": "938",
+    "name": "Al Waheda"
+  },
+  {
+    "id": "781",
+    "name": "Al Warqa 1"
+  },
+  {
+    "id": "785",
+    "name": "Al Warqa 2"
+  },
+  {
+    "id": "782",
+    "name": "Al Warqa 3"
+  },
+  {
+    "id": "1340",
+    "name": "Al Warqa 4"
+  },
+  {
+    "id": "784",
+    "name": "Al Warqa 5"
+  },
+  {
+    "id": "915",
+    "name": "Al Wasl"
+  },
+  {
+    "id": "735",
+    "name": "Arabian Ranches"
+  },
+  {
+    "id": "729",
+    "name": "Arabian Ranches 2"
+  },
+  {
+    "id": "836",
+    "name": "Barsha Heights - TECOM"
+  },
+  {
+    "id": "883",
+    "name": "Business Bay"
+  },
+  {
+    "id": "753",
+    "name": "City of Arabia"
+  },
+  {
+    "id": "1138",
+    "name": "DIFC"
+  },
+  {
+    "id": "935",
+    "name": "Deira"
+  },
+  {
+    "id": "813",
+    "name": "Discovery Gardens"
+  },
+  {
+    "id": "885",
+    "name": "Downtown Dubai"
+  },
+  {
+    "id": "884",
+    "name": "Dubai Design District"
+  },
+  {
+    "id": "866",
+    "name": "Dubai Festival City"
+  },
+  {
+    "id": "928",
+    "name": "Dubai Healthcare City"
+  },
+  {
+    "id": "899",
+    "name": "Dubai Internet City"
+  },
+  {
+    "id": "712",
+    "name": "Dubai Investment Park - 1"
+  },
+  {
+    "id": "709",
+    "name": "Dubai Investment Park - 2"
+  },
+  {
+    "id": "1714",
+    "name": "Dubai Land"
+  },
+  {
+    "id": "737",
+    "name": "Dubai Lifestyle City"
+  },
+  {
+    "id": "897",
+    "name": "Dubai Marina"
+  },
+  {
+    "id": "900",
+    "name": "Dubai Media City"
+  },
+  {
+    "id": "718",
+    "name": "Dubai Production City"
+  },
+  {
+    "id": "765",
+    "name": "Dubai Silicon Oasis"
+  },
+  {
+    "id": "719",
+    "name": "Dubai Sports City"
+  },
+  {
+    "id": "722",
+    "name": "Dubai Studio City"
+  },
+  {
+    "id": "1330",
+    "name": "Emirates Hills"
+  },
+  {
+    "id": "843",
+    "name": "Emirates Hills 2"
+  },
+  {
+    "id": "761",
+    "name": "Falconcity of Wonders"
+  },
+  {
+    "id": "869",
+    "name": "Garhoud"
+  },
+  {
+    "id": "714",
+    "name": "Green Community East"
+  },
+  {
+    "id": "713",
+    "name": "Green Community Village"
+  },
+  {
+    "id": "934",
+    "name": "Hor Al Anz"
+  },
+  {
+    "id": "939",
+    "name": "Hor Al Anz East"
+  },
+  {
+    "id": "772",
+    "name": "International City"
+  },
+  {
+    "id": "767",
+    "name": "International City Phase(2)"
+  },
+  {
+    "id": "810",
+    "name": "Jebel Ali Village"
+  },
+  {
+    "id": "917",
+    "name": "Jumeira 1"
+  },
+  {
+    "id": "1517",
+    "name": "Jumeira 2"
+  },
+  {
+    "id": "913",
+    "name": "Jumeira 3"
+  },
+  {
+    "id": "896",
+    "name": "Jumeirah Beach Residence"
+  },
+  {
+    "id": "1091",
+    "name": "Jumeirah Golf Estates"
+  },
+  {
+    "id": "816",
+    "name": "Jumeirah Heights"
+  },
+  {
+    "id": "815",
+    "name": "Jumeirah Islands"
+  },
+  {
+    "id": "817",
+    "name": "Jumeirah Lakes Towers - JLT"
+  },
+  {
+    "id": "814",
+    "name": "Jumeirah Park"
+  },
+  {
+    "id": "829",
+    "name": "Jumeirah Village Circle"
+  },
+  {
+    "id": "822",
+    "name": "Jumeirah Village Triangle - JVT"
+  },
+  {
+    "id": "901",
+    "name": "Knowledge Village"
+  },
+  {
+    "id": "727",
+    "name": "Layan"
+  },
+  {
+    "id": "1519",
+    "name": "Legends"
+  },
+  {
+    "id": "762",
+    "name": "Liwan"
+  },
+  {
+    "id": "835",
+    "name": "Majan"
+  },
+  {
+    "id": "1339",
+    "name": "Marsa Al Khor"
+  },
+  {
+    "id": "818",
+    "name": "Meadows 2"
+  },
+  {
+    "id": "789",
+    "name": "Mirdif"
+  },
+  {
+    "id": "723",
+    "name": "Motor City"
+  },
+  {
+    "id": "725",
+    "name": "Mudon"
+  },
+  {
+    "id": "804",
+    "name": "Muhaisnah"
+  },
+  {
+    "id": "1518",
+    "name": "Muhaisnah 1"
+  },
+  {
+    "id": "1677",
+    "name": "Muhaisnah 3"
+  },
+  {
+    "id": "876",
+    "name": "Muhaisnah 4"
+  },
+  {
+    "id": "1563",
+    "name": "Muteena"
+  },
+  {
+    "id": "854",
+    "name": "Nad Al Sheba 1"
+  },
+  {
+    "id": "856",
+    "name": "Nad Al Sheba 2"
+  },
+  {
+    "id": "857",
+    "name": "Nad Al Sheba 3"
+  },
+  {
+    "id": "858",
+    "name": "Nad Al Sheba 4"
+  },
+  {
+    "id": "1338",
+    "name": "Nad Shamma"
+  },
+  {
+    "id": "864",
+    "name": "Nadd Al Hamar"
+  },
+  {
+    "id": "1142",
+    "name": "Naif"
+  },
+  {
+    "id": "798",
+    "name": "Oud Al Muteena"
+  },
+  {
+    "id": "926",
+    "name": "Oud Metha"
+  },
+  {
+    "id": "942",
+    "name": "Port Rashid"
+  },
+  {
+    "id": "1513",
+    "name": "Port Saeed"
+  },
+  {
+    "id": "863",
+    "name": "Ras Al Khor"
+  },
+  {
+    "id": "860",
+    "name": "Ras Al Khor Industrial Area 1"
+  },
+  {
+    "id": "861",
+    "name": "Ras Al Khor Industrial Area 2"
+  },
+  {
+    "id": "1683",
+    "name": "Ras Al Khor Industrial Area 3"
+  },
+  {
+    "id": "715",
+    "name": "Remraam"
+  },
+  {
+    "id": "1329",
+    "name": "Springs 1"
+  },
+  {
+    "id": "827",
+    "name": "Springs 10"
+  },
+  {
+    "id": "826",
+    "name": "Springs 11"
+  },
+  {
+    "id": "824",
+    "name": "Springs 14"
+  },
+  {
+    "id": "825",
+    "name": "Springs 15"
+  },
+  {
+    "id": "823",
+    "name": "Springs 2"
+  },
+  {
+    "id": "828",
+    "name": "Springs 7"
+  },
+  {
+    "id": "1144",
+    "name": "Springs 9"
+  },
+  {
+    "id": "1140",
+    "name": "The Gardens"
+  },
+  {
+    "id": "845",
+    "name": "The Greens"
+  },
+  {
+    "id": "837",
+    "name": "The Lakes"
+  },
+  {
+    "id": "1623",
+    "name": "The Palm Jumeirah"
+  },
+  {
+    "id": "728",
+    "name": "The Sustainable City"
+  },
+  {
+    "id": "755",
+    "name": "The Villa"
+  },
+  {
+    "id": "889",
+    "name": "Trade Centre"
+  },
+  {
+    "id": "907",
+    "name": "Umm Al Sheif"
+  },
+  {
+    "id": "929",
+    "name": "Umm Hurair 1"
+  },
+  {
+    "id": "927",
+    "name": "Umm Hurair 2"
+  },
+  {
+    "id": "868",
+    "name": "Umm Ramool"
+  },
+  {
+    "id": "911",
+    "name": "Umm Suqeim 1"
+  },
+  {
+    "id": "909",
+    "name": "Umm Suqeim 2"
+  },
+  {
+    "id": "906",
+    "name": "Umm Suqeim 3"
+  },
+  {
+    "id": "779",
+    "name": "Warsan 2"
+  },
+  {
+    "id": "780",
+    "name": "Warsan 3"
+  },
+  {
+    "id": "888",
+    "name": "Za'abeel 1"
+  },
+  {
+    "id": "886",
+    "name": "Za'abeel 2"
+  }
+]

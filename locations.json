@@ -1,0 +1,1646 @@
+[
+  {
+    "_id": "5d0200b59b638900097a50af",
+    "locationName": "Abu Hail",
+    "locationSlug": "abu-hail",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50b0",
+    "locationName": "Academic City",
+    "locationSlug": "academic-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50b1",
+    "locationName": "Al Awir",
+    "locationSlug": "al-awir",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50b2",
+    "locationName": "Al Bada'a",
+    "locationSlug": "al-badaa",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50b3",
+    "locationName": "Al Baraha",
+    "locationSlug": "al-baraha",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50b4",
+    "locationName": "Al Barari",
+    "locationSlug": "al-barari",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50b5",
+    "locationName": "Al Barsha 1",
+    "locationSlug": "al-barsha-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50b6",
+    "locationName": "Al Barsha 2",
+    "locationSlug": "al-barsha-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50b7",
+    "locationName": "Al Barsha 3",
+    "locationSlug": "al-barsha-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50b8",
+    "locationName": "Al Barsha South",
+    "locationSlug": "al-barsha-south",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50b9",
+    "locationName": "Al Dhagaya",
+    "locationSlug": "al-dhagaya",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50ba",
+    "locationName": "Al Furjan",
+    "locationSlug": "al-furjan",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50bb",
+    "locationName": "Al Garhoud",
+    "locationSlug": "al-garhoud",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50bc",
+    "locationName": "Al Hamriya",
+    "locationSlug": "al-hamriya",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50bd",
+    "locationName": "Al Hudaiba",
+    "locationSlug": "al-hudaiba",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50be",
+    "locationName": "Al Jaddaf",
+    "locationSlug": "al-jaddaf",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50bf",
+    "locationName": "Al Jaffiliya",
+    "locationSlug": "al-jaffiliya",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50c0",
+    "locationName": "Al Karama",
+    "locationSlug": "al-karama",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50c1",
+    "locationName": "Al Khabaisi",
+    "locationSlug": "al-khabaisi",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50c2",
+    "locationName": "Al Khawaneej 1",
+    "locationSlug": "al-khawaneej-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50c3",
+    "locationName": "Al Khawaneej 2",
+    "locationSlug": "al-khawaneej-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50c4",
+    "locationName": "Al Mamzar",
+    "locationSlug": "al-mamzar",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50c5",
+    "locationName": "Al Manara",
+    "locationSlug": "al-manara",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50c6",
+    "locationName": "Al Mankhool",
+    "locationSlug": "al-mankhool",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50c7",
+    "locationName": "Al Mina",
+    "locationSlug": "al-mina",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50c8",
+    "locationName": "Al Mizhar 1",
+    "locationSlug": "al-mizhar-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50c9",
+    "locationName": "Al Mizhar 2",
+    "locationSlug": "al-mizhar-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50ca",
+    "locationName": "Al Muraqqabat",
+    "locationSlug": "al-muraqqabat",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50cb",
+    "locationName": "Al Murar",
+    "locationSlug": "al-murar",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50cc",
+    "locationName": "Al Mushrif",
+    "locationSlug": "al-mushrif",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50cd",
+    "locationName": "Al Muteena",
+    "locationSlug": "al-muteena",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50ce",
+    "locationName": "Al Nahda 1",
+    "locationSlug": "al-nahda-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50cf",
+    "locationName": "Al Nahda 2",
+    "locationSlug": "al-nahda-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50d0",
+    "locationName": "Al Quoz 1",
+    "locationSlug": "al-quoz-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50d1",
+    "locationName": "Al Quoz 2",
+    "locationSlug": "al-quoz-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50d2",
+    "locationName": "Al Quoz 3",
+    "locationSlug": "al-quoz-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50d3",
+    "locationName": "Al Quoz 4",
+    "locationSlug": "al-quoz-4",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50d4",
+    "locationName": "Al Quoz Industrial Area 1",
+    "locationSlug": "al-quoz-industrial-area-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50d5",
+    "locationName": "Al Quoz Industrial Area 2",
+    "locationSlug": "al-quoz-industrial-area-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50d6",
+    "locationName": "Al Quoz Industrial Area 3",
+    "locationSlug": "al-quoz-industrial-area-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50d7",
+    "locationName": "Al Quoz Industrial Area 4",
+    "locationSlug": "al-quoz-industrial-area-4",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50d8",
+    "locationName": "Al Qusais 1",
+    "locationSlug": "al-qusais-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50d9",
+    "locationName": "Al Qusais 2",
+    "locationSlug": "al-qusais-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50da",
+    "locationName": "Al Qusais 3",
+    "locationSlug": "al-qusais-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50db",
+    "locationName": "Al Qusais Industrial Area 1",
+    "locationSlug": "al-qusais-industrial-area-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50dc",
+    "locationName": "Al Qusais Industrial Area 2",
+    "locationSlug": "al-qusais-industrial-area-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50dd",
+    "locationName": "Al Qusais Industrial Area 3",
+    "locationSlug": "al-qusais-industrial-area-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50de",
+    "locationName": "Al Qusais Industrial Area 4",
+    "locationSlug": "al-qusais-industrial-area-4",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50df",
+    "locationName": "Al Qusais Industrial Area 5",
+    "locationSlug": "al-qusais-industrial-area-5",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50e0",
+    "locationName": "Al Raffa",
+    "locationSlug": "al-raffa",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50e1",
+    "locationName": "Al Ras",
+    "locationSlug": "al-ras",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50e2",
+    "locationName": "Al Rashidiya",
+    "locationSlug": "al-rashidiya",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50e3",
+    "locationName": "Al Rigga",
+    "locationSlug": "al-rigga",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50e4",
+    "locationName": "Al Sabkha",
+    "locationSlug": "al-sabkha",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50e5",
+    "locationName": "Al Safa 2",
+    "locationSlug": "al-safa-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50e6",
+    "locationName": "Al Safa",
+    "locationSlug": "al-safa",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50e7",
+    "locationName": "Al Satwa",
+    "locationSlug": "al-satwa",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50e8",
+    "locationName": "Al Shindagha",
+    "locationSlug": "al-shindagha",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50e9",
+    "locationName": "Al Souq Al Kabeer",
+    "locationSlug": "al-souq-al-kabeer",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50ea",
+    "locationName": "Al Sufouh 1",
+    "locationSlug": "al-sufouh-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50eb",
+    "locationName": "Al Sufouh 2",
+    "locationSlug": "al-sufouh-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50ec",
+    "locationName": "Al Twar 1",
+    "locationSlug": "al-twar-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50ed",
+    "locationName": "Al Twar 2",
+    "locationSlug": "al-twar-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50ee",
+    "locationName": "Al Twar 3",
+    "locationSlug": "al-twar-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50ef",
+    "locationName": "Al Waheda",
+    "locationSlug": "al-waheda",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50f0",
+    "locationName": "Al Warqa 1",
+    "locationSlug": "al-warqa-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50f1",
+    "locationName": "Al Warqa 2",
+    "locationSlug": "al-warqa-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50f2",
+    "locationName": "Al Warqa 3",
+    "locationSlug": "al-warqa-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50f3",
+    "locationName": "Al Warqa 4",
+    "locationSlug": "al-warqa-4",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50f4",
+    "locationName": "Al Warqa 5",
+    "locationSlug": "al-warqa-5",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50f5",
+    "locationName": "Al Wasl",
+    "locationSlug": "al-wasl",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50f6",
+    "locationName": "Arabian Ranches 2",
+    "locationSlug": "arabian-ranches-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50f7",
+    "locationName": "Arabian Ranches",
+    "locationSlug": "arabian-ranches",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50f8",
+    "locationName": "Arjan",
+    "locationSlug": "arjan",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50f9",
+    "locationName": "Barsha Heights - TECOM",
+    "locationSlug": "barsha-heights-tecom",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50fa",
+    "locationName": "Bukadra",
+    "locationSlug": "bukadra",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50fb",
+    "locationName": "Business Bay",
+    "locationSlug": "business-bay",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50fc",
+    "locationName": "Corniche Deira",
+    "locationSlug": "corniche-deira",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50fd",
+    "locationName": "DIFC",
+    "locationSlug": "difc",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50fe",
+    "locationName": "Discovery Gardens",
+    "locationSlug": "discovery-gardens",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a50ff",
+    "locationName": "Downtown Burj Khalifa",
+    "locationSlug": "downtown-burj-khalifa",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5100",
+    "locationName": "Downtown Jabel Ali",
+    "locationSlug": "downtown-jabel-ali",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5101",
+    "locationName": "Dubai Airport Freezone",
+    "locationSlug": "dubai-airport-freezone",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5102",
+    "locationName": "Dubai Cargo Village",
+    "locationSlug": "dubai-cargo-village",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5103",
+    "locationName": "Dubai Design District",
+    "locationSlug": "dubai-design-district",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5104",
+    "locationName": "Dubai Falcon City",
+    "locationSlug": "dubai-falcon-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5105",
+    "locationName": "Dubai Festival City",
+    "locationSlug": "dubai-festival-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5106",
+    "locationName": "Dubai Healthcare City",
+    "locationSlug": "dubai-healthcare-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5107",
+    "locationName": "Dubai International Airport",
+    "locationSlug": "dubai-international-airport",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5108",
+    "locationName": "Dubai Internet City - DIC",
+    "locationSlug": "dubai-internet-city-dic",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5109",
+    "locationName": "Dubai Investments Park 1",
+    "locationSlug": "dubai-investments-park-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a510a",
+    "locationName": "Dubai Investments Park 2",
+    "locationSlug": "dubai-investments-park-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a510b",
+    "locationName": "Dubai Lifestyle City",
+    "locationSlug": "dubai-lifestyle-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a510c",
+    "locationName": "Dubai Marina",
+    "locationSlug": "dubai-marina",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a510d",
+    "locationName": "Dubai Maritime City",
+    "locationSlug": "dubai-maritime-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a510e",
+    "locationName": "Dubai Media City",
+    "locationSlug": "dubai-media-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a510f",
+    "locationName": "Dubai Motor City",
+    "locationSlug": "dubai-motor-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5110",
+    "locationName": "Dubai Silicon Oasis",
+    "locationSlug": "dubai-silicon-oasis",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5111",
+    "locationName": "Dubai Sports City",
+    "locationSlug": "dubai-sports-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5112",
+    "locationName": "Dubai Studio City",
+    "locationSlug": "dubai-studio-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5113",
+    "locationName": "Dubai Techno Park",
+    "locationSlug": "dubai-techno-park",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5114",
+    "locationName": "Dubai World Central - DWC",
+    "locationSlug": "dubai-world-central-dwc",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5115",
+    "locationName": "Dubai World Trade Center - DWTC",
+    "locationSlug": "dubai-world-trade-center-dwtc",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5116",
+    "locationName": "Emirates Hills",
+    "locationSlug": "emirates-hills",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5117",
+    "locationName": "Gardens",
+    "locationSlug": "gardens",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5118",
+    "locationName": "Global Village",
+    "locationSlug": "global-village",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5119",
+    "locationName": "Green Community Motor City",
+    "locationSlug": "green-community-motor-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a511a",
+    "locationName": "Green Community",
+    "locationSlug": "green-community",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a511b",
+    "locationName": "Hor Al Anz East",
+    "locationSlug": "hor-al-anz-east",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a511c",
+    "locationName": "Hor Al Anz",
+    "locationSlug": "hor-al-anz",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a511d",
+    "locationName": "Ibn Batutta Mall",
+    "locationSlug": "ibn-batutta-mall",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a511e",
+    "locationName": "IMPZ",
+    "locationSlug": "impz",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a511f",
+    "locationName": "International City 2",
+    "locationSlug": "international-city-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5120",
+    "locationName": "International City",
+    "locationSlug": "international-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5121",
+    "locationName": "Jebel Ali 1",
+    "locationSlug": "jebel-ali-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5122",
+    "locationName": "Jebel Ali 2",
+    "locationSlug": "jebel-ali-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5123",
+    "locationName": "Jebel Ali Freezone Extension",
+    "locationSlug": "jebel-ali-freezone-extension",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5124",
+    "locationName": "Jebel Ali Freezone",
+    "locationSlug": "jebel-ali-freezone",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5125",
+    "locationName": "Jebel Ali Industrial Area",
+    "locationSlug": "jebel-ali-industrial-area",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5126",
+    "locationName": "Jumeirah 1",
+    "locationSlug": "jumeirah-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5127",
+    "locationName": "Jumeirah 2",
+    "locationSlug": "jumeirah-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5128",
+    "locationName": "Jumeirah 3",
+    "locationSlug": "jumeirah-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5129",
+    "locationName": "Jumeirah Beach Residence - JBR",
+    "locationSlug": "jumeirah-beach-residence-jbr",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a512a",
+    "locationName": "Jumeirah Golf Estates",
+    "locationSlug": "jumeirah-golf-estates",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a512b",
+    "locationName": "Jumeirah Heights",
+    "locationSlug": "jumeirah-heights",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a512c",
+    "locationName": "Jumeirah Islands",
+    "locationSlug": "jumeirah-islands",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a512d",
+    "locationName": "Jumeirah Lakes Towers - JLT",
+    "locationSlug": "jumeirah-lakes-towers-jlt",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a512e",
+    "locationName": "Jumeirah Park",
+    "locationSlug": "jumeirah-park",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a512f",
+    "locationName": "Jumeirah Village Circle - JVC",
+    "locationSlug": "jumeirah-village-circle-jvc",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5130",
+    "locationName": "Jumeirah Village Triangle - JVT",
+    "locationSlug": "jumeirah-village-triangle-jvt",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5131",
+    "locationName": "Knowledge Village",
+    "locationSlug": "knowledge-village",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5132",
+    "locationName": "Layan Community",
+    "locationSlug": "layan-community",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5133",
+    "locationName": "Legends",
+    "locationSlug": "legends",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5134",
+    "locationName": "Liwan",
+    "locationSlug": "liwan",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5135",
+    "locationName": "Majan",
+    "locationSlug": "majan",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5136",
+    "locationName": "MBR- Al Merkad",
+    "locationSlug": "mbr-al-merkad",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5137",
+    "locationName": "Meadows",
+    "locationSlug": "meadows",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5138",
+    "locationName": "Meydan South",
+    "locationSlug": "meydan-south",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5139",
+    "locationName": "Mira Community",
+    "locationSlug": "mira-community",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a513a",
+    "locationName": "Mirdif",
+    "locationSlug": "mirdif",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a513b",
+    "locationName": "Mudon",
+    "locationSlug": "mudon",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a513c",
+    "locationName": "Muhaisnah 1",
+    "locationSlug": "muhaisnah-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a513d",
+    "locationName": "Muhaisnah 2",
+    "locationSlug": "muhaisnah-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a513e",
+    "locationName": "Muhaisnah 3",
+    "locationSlug": "muhaisnah-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a513f",
+    "locationName": "Muhaisnah 4",
+    "locationSlug": "muhaisnah-4",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5140",
+    "locationName": "Nad Al Sheba 1",
+    "locationSlug": "nad-al-sheba-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5141",
+    "locationName": "Nad Al Sheba 2",
+    "locationSlug": "nad-al-sheba-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5142",
+    "locationName": "Nad Al Sheba 3",
+    "locationSlug": "nad-al-sheba-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5143",
+    "locationName": "Nad Al Sheba 4",
+    "locationSlug": "nad-al-sheba-4",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5144",
+    "locationName": "Nadd Al Hamar",
+    "locationSlug": "nadd-al-hamar",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5145",
+    "locationName": "Nadd Al Shamma",
+    "locationSlug": "nadd-al-shamma",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5146",
+    "locationName": "Naif",
+    "locationSlug": "naif",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5147",
+    "locationName": "Oud Al Muteena",
+    "locationSlug": "oud-al-muteena",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5148",
+    "locationName": "Oud Metha",
+    "locationSlug": "oud-metha",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5149",
+    "locationName": "Port Rashid",
+    "locationSlug": "port-rashid",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a514a",
+    "locationName": "Port Saeed",
+    "locationSlug": "port-saeed",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a514b",
+    "locationName": "Ras Al Khor Indsutrial Area 1",
+    "locationSlug": "ras-al-khor-indsutrial-area-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a514c",
+    "locationName": "Ras Al Khor Indsutrial Area 2",
+    "locationSlug": "ras-al-khor-indsutrial-area-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a514d",
+    "locationName": "Ras Al Khor Indsutrial Area 3",
+    "locationSlug": "ras-al-khor-indsutrial-area-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a514e",
+    "locationName": "Ras Al Khor",
+    "locationSlug": "ras-al-khor",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a514f",
+    "locationName": "Remraam",
+    "locationSlug": "remraam",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5150",
+    "locationName": "Rigga Al Buteen",
+    "locationSlug": "rigga-al-buteen",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5151",
+    "locationName": "Springs",
+    "locationSlug": "springs",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5152",
+    "locationName": "The Greens",
+    "locationSlug": "the-greens",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5153",
+    "locationName": "The Lakes",
+    "locationSlug": "the-lakes",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5154",
+    "locationName": "The Palm Deira",
+    "locationSlug": "the-palm-deira",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5155",
+    "locationName": "The Palm Jebel Ali",
+    "locationSlug": "the-palm-jebel-ali",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5156",
+    "locationName": "The Palm Jumeirah",
+    "locationSlug": "the-palm-jumeirah",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5157",
+    "locationName": "The Skycourts",
+    "locationSlug": "the-skycourts",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5158",
+    "locationName": "The Sustainable City",
+    "locationSlug": "the-sustainable-city",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5159",
+    "locationName": "The Villa",
+    "locationSlug": "the-villa",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a515a",
+    "locationName": "Um Al Sheif",
+    "locationSlug": "um-al-sheif",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a515b",
+    "locationName": "Umm Hurair 1",
+    "locationSlug": "umm-hurair-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a515c",
+    "locationName": "Umm Hurair 2",
+    "locationSlug": "umm-hurair-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a515d",
+    "locationName": "Umm Ramool",
+    "locationSlug": "umm-ramool",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a515e",
+    "locationName": "Umm Suqeim 1",
+    "locationSlug": "umm-suqeim-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a515f",
+    "locationName": "Umm Suqeim 2",
+    "locationSlug": "umm-suqeim-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5160",
+    "locationName": "Umm Suqeim 3",
+    "locationSlug": "umm-suqeim-3",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5161",
+    "locationName": "Wadi Alamardi",
+    "locationSlug": "wadi-alamardi",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5162",
+    "locationName": "Warsan 1",
+    "locationSlug": "warsan-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5163",
+    "locationName": "Warsan 2",
+    "locationSlug": "warsan-2",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5164",
+    "locationName": "Waterfront",
+    "locationSlug": "waterfront",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5165",
+    "locationName": "Za'abeel 1",
+    "locationSlug": "zaabeel-1",
+    "type": "location"
+  },
+  {
+    "_id": "5d0200b59b638900097a5166",
+    "locationName": "Za'abeel 2",
+    "locationSlug": "zaabeel-2",
+    "type": "location"
+  },
+  {
+    "_id": "3b93f938-e9cc-4aa0-b79e-082886bc16e4",
+    "locationName": "Cluster I Jumeirah Lake Towers",
+    "locationSlug": "cluster-i-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "b41d3acb-ef9e-44bd-985b-ad3c518f53ed",
+    "locationName": "Al Khawaneej West",
+    "locationSlug": "al-khawaneej-west",
+    "type": "location"
+  },
+  {
+    "_id": "7d015c8a-fb71-43e2-9e7e-a247eaac9722",
+    "locationName": "Cluster Y Jumeirah Lake Towers",
+    "locationSlug": "cluster-y-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "ed0a898f-eeb3-4872-82ea-fc67bd856e96",
+    "locationName": "Marina West",
+    "locationSlug": "marina-west",
+    "type": "location"
+  },
+  {
+    "_id": "6d70c07e-8ef6-4d50-8d68-4abc4b76e269",
+    "locationName": "Madinat Al Jumeirah",
+    "locationSlug": "madinat-al-jumeirah",
+    "type": "location"
+  },
+  {
+    "_id": "0239e1a2-98ba-46f7-81b7-35f8347640f9",
+    "locationName": "Manzil Downtown Dubai",
+    "locationSlug": "manzil-downtown-dubai",
+    "type": "location"
+  },
+  {
+    "_id": "7ba6ba2c-a3bd-41fd-9838-1f236f992898",
+    "locationName": "Dubai Mall",
+    "locationSlug": "dubai-mall",
+    "type": "location"
+  },
+  {
+    "_id": "5885f53e-5534-4f88-b39e-02246e670629",
+    "locationName": "Cluster O Jumeirah Lake Towers",
+    "locationSlug": "cluster-o-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "481bd513-04de-47cb-8cf1-3c59aec87929",
+    "locationName": "Trade Centre Area",
+    "locationSlug": "trade-centre-area",
+    "type": "location"
+  },
+  {
+    "_id": "6fedf502-519e-426d-a2ae-d5bfc21c80e1",
+    "locationName": "Al Barsha Park 1",
+    "locationSlug": "al-barsha-park-1",
+    "type": "location"
+  },
+  {
+    "_id": "1f312e0a-9fa0-420e-8be1-badc2eeed930",
+    "locationName": "Cluster B Jumeirah Lake Towers",
+    "locationSlug": "cluster-b-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "8ae3ed45-71e4-4333-b806-ecb9a0151664",
+    "locationName": "First Avenue Mall Motor City",
+    "locationSlug": "first-avenue-mall-motor-city",
+    "type": "location"
+  },
+  {
+    "_id": "e0c25627-a0f6-4080-a491-438a6d05fe90",
+    "locationName": "Russia Cluster International City",
+    "locationSlug": "russia-cluster-international-city",
+    "type": "location"
+  },
+  {
+    "_id": "02073451-5a55-43c0-87fb-0065278d7061",
+    "locationName": "Emirates Tower",
+    "locationSlug": "emirates-tower",
+    "type": "location"
+  },
+  {
+    "_id": "e657e1a6-e306-4ad9-88e2-36e5e0fb713d",
+    "locationName": "Umm Al Sheif",
+    "locationSlug": "umm-al-sheif",
+    "type": "location"
+  },
+  {
+    "_id": "3f81d0b9-a54a-4af2-81c0-dfcca5f6a3b7",
+    "locationName": "The Mall Umm Suqeim",
+    "locationSlug": "the-mall-umm-suqeim",
+    "type": "location"
+  },
+  {
+    "_id": "1edffcde-495f-4d7c-aee2-c6ccf25f2cc5",
+    "locationName": "Cluster T Jumeirah Lake Towers",
+    "locationSlug": "cluster-t-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "1e86bb66-7c55-45cd-b55b-59c9776d51b7",
+    "locationName": "Cluster F Jumeirah Lake Towers",
+    "locationSlug": "cluster-f-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "b3658e43-e8a4-4692-99c5-01fd0f43ec99",
+    "locationName": "Cluster X Jumeirah Lake Towers",
+    "locationSlug": "cluster-x-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "42291e2f-7bae-45c8-8aff-fd520c4a35df",
+    "locationName": "Spain Cluster International City",
+    "locationSlug": "spain-cluster-international-city",
+    "type": "location"
+  },
+  {
+    "_id": "448b3c02-c5e8-4754-beb7-e99955d72c78",
+    "locationName": "Cluster C Jumeirah Lake Towers",
+    "locationSlug": "cluster-c-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "40cf51b4-e272-428e-b1f0-51038718204b",
+    "locationName": "European Business Centre Dubai Investment Park",
+    "locationSlug": "european-business-centre-dubai-investment-park",
+    "type": "location"
+  },
+  {
+    "_id": "f0e4a425-d862-453e-be4f-83529d2b3606",
+    "locationName": "Dubai International City",
+    "locationSlug": "dubai-international-city",
+    "type": "location"
+  },
+  {
+    "_id": "f75da1fe-d3c5-45a6-8a75-049d1086c475",
+    "locationName": "Healthcare City",
+    "locationSlug": "healthcare-city",
+    "type": "location"
+  },
+  {
+    "_id": "99473c76-a55f-4297-ac05-dc7a6318a099",
+    "locationName": "China Cluster International City",
+    "locationSlug": "china-cluster-international-city",
+    "type": "location"
+  },
+  {
+    "_id": "f9f3daf1-e748-45d6-81ce-7f2e52d3c9cc",
+    "locationName": "Dubai Creek",
+    "locationSlug": "dubai-creek",
+    "type": "location"
+  },
+  {
+    "_id": "22533709-d56a-4051-934d-6abcf5ad2b45",
+    "locationName": "Sheikh Zayed Road",
+    "locationSlug": "sheikh-zayed-road",
+    "type": "location"
+  },
+  {
+    "_id": "562f28e8-ebeb-4700-9c01-6e09acf73ad1",
+    "locationName": "Persia Cluster International City",
+    "locationSlug": "persia-cluster-international-city",
+    "type": "location"
+  },
+  {
+    "_id": "d774ee5a-f008-4ba2-afbb-a8c3d3acf48e",
+    "locationName": "Jlt Connector",
+    "locationSlug": "jlt-connector",
+    "type": "location"
+  },
+  {
+    "_id": "29d970c5-5bda-4a5e-a03f-a41e478233f1",
+    "locationName": "Festival City",
+    "locationSlug": "festival-city",
+    "type": "location"
+  },
+  {
+    "_id": "148047b8-366b-435f-b3c0-b381d77e6ec1",
+    "locationName": "Jumeirah Lake Towers",
+    "locationSlug": "jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "612ca934-9a4f-4adc-9e9c-b97b62a26b26",
+    "locationName": "England Cluster International City",
+    "locationSlug": "england-cluster-international-city",
+    "type": "location"
+  },
+  {
+    "_id": "4ba16b53-c2b0-4b12-b9ad-1ac6a2bf92fb",
+    "locationName": "Dubai Festival City Mall Festival City",
+    "locationSlug": "dubai-festival-city-mall-festival-city",
+    "type": "location"
+  },
+  {
+    "_id": "7db4a46f-d2b6-4d34-b185-701a961a8ef3",
+    "locationName": "Nad Al Sheba",
+    "locationSlug": "nad-al-sheba",
+    "type": "location"
+  },
+  {
+    "_id": "db9aac9a-74fe-46af-a32b-b9912767e84f",
+    "locationName": "Dafza",
+    "locationSlug": "dafza",
+    "type": "location"
+  },
+  {
+    "_id": "e0380b50-ce5c-4b6f-967c-44d981bc053f",
+    "locationName": "Cluster R Jumeirah Lake Towers",
+    "locationSlug": "cluster-r-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "528450f8-3d84-45fd-9b1e-7faf88091697",
+    "locationName": "Cluster J Jumeirah Lake Towers",
+    "locationSlug": "cluster-j-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "c6fbea3d-9c44-40d9-bcdf-11ad45d6614c",
+    "locationName": "Cluster N Jumeirah Lake Towers Jlt",
+    "locationSlug": "cluster-n-jumeirah-lake-towers-jlt",
+    "type": "location"
+  },
+  {
+    "_id": "a3e8a5fc-cecb-4462-b076-6ca18f29cf86",
+    "locationName": "Al Quoz Pond Park",
+    "locationSlug": "al-quoz-pond-park",
+    "type": "location"
+  },
+  {
+    "_id": "12406263-846a-4b0c-be46-d0853f7f439a",
+    "locationName": "The Beach Jumeirah Beach Residence",
+    "locationSlug": "the-beach-jumeirah-beach-residence",
+    "type": "location"
+  },
+  {
+    "_id": "9a769b1b-3c9e-4c94-ade5-3712d03000b4",
+    "locationName": "Madina Mall Muhaisnah",
+    "locationSlug": "madina-mall-muhaisnah",
+    "type": "location"
+  },
+  {
+    "_id": "7346240a-a689-48a6-b4a5-0f953cc6d931",
+    "locationName": "Al Warqaa",
+    "locationSlug": "al-warqaa",
+    "type": "location"
+  },
+  {
+    "_id": "142dee7c-cb90-41ff-af23-f7ce64892ec7",
+    "locationName": "Ibn Battuta Mall Jebel Ali Village",
+    "locationSlug": "ibn-battuta-mall-jebel-ali-village",
+    "type": "location"
+  },
+  {
+    "_id": "cb99b9a4-1c60-4188-a460-877f7b830d1e",
+    "locationName": "Outlet Mall",
+    "locationSlug": "outlet-mall",
+    "type": "location"
+  },
+  {
+    "_id": "87312b7c-cc7b-458e-8e6a-bac423b419e4",
+    "locationName": "Cluster D Jumeirah Lake Towers",
+    "locationSlug": "cluster-d-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "1a369772-7943-4ea1-8431-3698692b6778",
+    "locationName": "Downtown Dubai",
+    "locationSlug": "downtown-dubai",
+    "type": "location"
+  },
+  {
+    "_id": "77769093-d3b9-4a50-ab25-46272bf9bbed",
+    "locationName": "European Business Centre Investment Park",
+    "locationSlug": "european-business-centre-investment-park",
+    "type": "location"
+  },
+  {
+    "_id": "731b7949-a4e0-4c23-ba6a-07c7baf74eb8",
+    "locationName": "Dubai Investment Park",
+    "locationSlug": "dubai-investment-park",
+    "type": "location"
+  },
+  {
+    "_id": "9308ea78-4f2b-482e-8f9e-5ef219770e97",
+    "locationName": "Marina Walk Marina",
+    "locationSlug": "marina-walk-marina",
+    "type": "location"
+  },
+  {
+    "_id": "a36f8866-15e9-479f-90f1-3e836b2526f7",
+    "locationName": "Jafilia",
+    "locationSlug": "jafilia",
+    "type": "location"
+  },
+  {
+    "_id": "69a07107-67af-4bc6-a5a4-4a53e1853e15",
+    "locationName": "Ibn Battuta",
+    "locationSlug": "ibn-battuta",
+    "type": "location"
+  },
+  {
+    "_id": "322a31e9-9ebc-44fb-8556-8dc004903d42",
+    "locationName": "Hotel Ibis World Trade Centre Trade Centre Area",
+    "locationSlug": "hotel-ibis-world-trade-centre-trade-centre-area",
+    "type": "location"
+  },
+  {
+    "_id": "0114738a-9c24-4a00-b6f4-dcfe9b0ad17d",
+    "locationName": "Cluster M Jumeirah Lake Towers",
+    "locationSlug": "cluster-m-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "3e94df4f-7c27-468b-b7e9-439f5e2e3a77",
+    "locationName": "Cluster E Jumeirah Lake Towers",
+    "locationSlug": "cluster-e-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "cddb0447-c0f1-4c54-a367-974fe2224307",
+    "locationName": "Emirates Golf Club",
+    "locationSlug": "emirates-golf-club",
+    "type": "location"
+  },
+  {
+    "_id": "b1b63a93-bdcf-4ccf-be37-969a89ecaa65",
+    "locationName": "Cluster Q Jumeirah Lake Towers",
+    "locationSlug": "cluster-q-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "3b2e0d48-84e2-4038-b0a3-007593a59894",
+    "locationName": "Al Khail Mall Al Quoz",
+    "locationSlug": "al-khail-mall-al-quoz",
+    "type": "location"
+  },
+  {
+    "_id": "94b0bd69-7925-41cd-b4f5-c5da541cd224",
+    "locationName": "City Walk",
+    "locationSlug": "city-walk",
+    "type": "location"
+  },
+  {
+    "_id": "f5065652-d1fa-4f91-b355-c3a496e2f16b",
+    "locationName": "Cluster W Jumeirah Lake Towers",
+    "locationSlug": "cluster-w-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "7264f288-6e84-41b7-af6b-c3da01846ef8",
+    "locationName": "The Palm",
+    "locationSlug": "the-palm",
+    "type": "location"
+  },
+  {
+    "_id": "a9c6d852-940a-4056-9a21-75bfc2e265b4",
+    "locationName": "The Walk Jumeirah Beach Residence",
+    "locationSlug": "the-walk-jumeirah-beach-residence",
+    "type": "location"
+  },
+  {
+    "_id": "792c8dd5-d57a-435c-8fd5-6c9be3950eaa",
+    "locationName": "Cluster H Jumeirah Lake Towers",
+    "locationSlug": "cluster-h-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "355a81d8-e94d-41b3-a81d-5defbe41435f",
+    "locationName": "Cluster N Jumeirah Lake Towers",
+    "locationSlug": "cluster-n-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "87465d79-5591-4086-97fa-94cd3d3ee38e",
+    "locationName": "Zabeel",
+    "locationSlug": "zabeel",
+    "type": "location"
+  },
+  {
+    "_id": "147fd159-ec37-406f-8614-6653d5ba0c84",
+    "locationName": "Cluster M Jumeirah Lake Towers Jlt",
+    "locationSlug": "cluster-m-jumeirah-lake-towers-jlt",
+    "type": "location"
+  },
+  {
+    "_id": "c0214a5a-854c-42d0-b915-af2e3e1f2df8",
+    "locationName": "Internet City 2",
+    "locationSlug": "internet-city-2",
+    "type": "location"
+  },
+  {
+    "_id": "18fc7bb7-ff58-4fdd-8ae4-b384093d60fe",
+    "locationName": "Cluster G Jumeirah Lake Towers",
+    "locationSlug": "cluster-g-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "e714f0e2-22f4-44f8-8c33-2c8958d13157",
+    "locationName": "Marina Mall",
+    "locationSlug": "marina-mall",
+    "type": "location"
+  },
+  {
+    "_id": "e6ac5589-075b-445a-9b0b-e66a86b64aa6",
+    "locationName": "Century Mall",
+    "locationSlug": "century-mall",
+    "type": "location"
+  },
+  {
+    "_id": "d696324f-4b47-4f94-8282-a77d08adb1dc",
+    "locationName": "Souk Al Bahar",
+    "locationSlug": "souk-al-bahar",
+    "type": "location"
+  },
+  {
+    "_id": "b0aa28d1-9bae-4fae-84ff-b9e3c43b605e",
+    "locationName": "Damac Hills",
+    "locationSlug": "damac-hills",
+    "type": "location"
+  },
+  {
+    "_id": "9ac7ef37-0f6f-4038-99db-d9a83cee5769",
+    "locationName": "Al Khail Gate Al Qouz",
+    "locationSlug": "al-khail-gate-al-qouz",
+    "type": "location"
+  },
+  {
+    "_id": "30c7a1bf-ec0f-40ed-b8c5-3ba5115455ae",
+    "locationName": "Deira City Centre",
+    "locationSlug": "deira-city-centre",
+    "type": "location"
+  },
+  {
+    "_id": "79df8b7f-b6e0-4091-b4cf-58bb2fc099c5",
+    "locationName": "Al Khawaneej East",
+    "locationSlug": "al-khawaneej-east",
+    "type": "location"
+  },
+  {
+    "_id": "9f02c1f8-501c-4489-bbf6-f3888fce5f6f",
+    "locationName": "The Dubai Mall Downtown Dubai",
+    "locationSlug": "the-dubai-mall-downtown-dubai",
+    "type": "location"
+  },
+  {
+    "_id": "badf80c7-9603-44e9-aba7-fcd8c56930a2",
+    "locationName": "Jebel Ali Village",
+    "locationSlug": "jebel-ali-village",
+    "type": "location"
+  },
+  {
+    "_id": "01efb0a4-47ff-47af-a305-444d9ea4d5d5",
+    "locationName": "Cluster A Jumeirah Lake Towers",
+    "locationSlug": "cluster-a-jumeirah-lake-towers",
+    "type": "location"
+  },
+  {
+    "_id": "db852a41-03b1-40a2-a564-f5acda02f489",
+    "locationName": "Mall Of The Emirates Al Barsha",
+    "locationSlug": "mall-of-the-emirates-al-barsha",
+    "type": "location"
+  },
+  {
+    "_id": "b57d1cca-8e0f-412c-9feb-b9d6128147aa",
+    "locationName": "Palm Residences",
+    "locationSlug": "palm-residences",
+    "type": "location"
+  },
+  {
+    "_id": "d6ad4844-9ea3-461a-9c10-65f401cec07e",
+    "locationName": "Morocco Cluster International City",
+    "locationSlug": "morocco-cluster-international-city",
+    "type": "location"
+  },
+  {
+    "_id": "8cc6fb54-796a-4e43-8588-ec7f49debeb5",
+    "locationName": "Greece Cluster International City",
+    "locationSlug": "greece-cluster-international-city",
+    "type": "location"
+  },
+  {
+    "_id": "a15b1493-568b-4316-81db-febfe447db32",
+    "locationName": "Jlt West",
+    "locationSlug": "jlt-west",
+    "type": "location"
+  },
+  {
+    "_id": "94319520-3a5e-4c07-bc54-c6b81aa52e85",
+    "locationName": "Al Seef Umm Hurair",
+    "locationSlug": "al-seef-umm-hurair",
+    "type": "location"
+  },
+  {
+    "_id": "3e637e21-4796-442c-aa21-f007802055ae",
+    "locationName": "Dubai World Trade Center Dwtc",
+    "locationSlug": "dubai-world-trade-center-dwtc",
+    "type": "location"
+  },
+  {
+    "_id": "18c9e1a6-8846-4949-89f6-db11dd01b89e",
+    "locationName": "Al Muhaisnah",
+    "locationSlug": "al-muhaisnah",
+    "type": "location"
+  },
+  {
+    "_id": "19546dec-7ae0-457f-ad58-105f7b4cfeec",
+    "locationName": "France Cluster International City",
+    "locationSlug": "france-cluster-international-city",
+    "type": "location"
+  },
+  {
+    "_id": "0da73729-5742-40bd-b53f-208e8744484b",
+    "locationName": "Meena Bazaar",
+    "locationSlug": "meena-bazaar",
+    "type": "location"
+  },
+  {
+    "_id": "bea23c19-0919-416a-bda9-2f9ec4efa326",
+    "locationName": "American University Of Dubai",
+    "locationSlug": "american-university-of-dubai",
+    "type": "location"
+  },
+  {
+    "_id": "a5416c8f-fc7e-42ec-a351-959e6e00834f",
+    "locationName": "Ramee Rose Hotel Barsha Heights",
+    "locationSlug": "ramee-rose-hotel-barsha-heights",
+    "type": "location"
+  },
+  {
+    "_id": "a5416c8f-fc7e-0001-a351-959e6e00834f",
+    "locationName": "Bur Dubai",
+    "locationSlug": "bur-dubai-zabeel",
+    "type": "location"
+  }
+]
